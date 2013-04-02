@@ -1,0 +1,8 @@
+<html>
+ <body>
+  <h2>hello from Rails</h2>
+  <p><%= @time %>
+
+  Time to say<%= link_to "GoodBye!",say_bye_path %>
+ </body>
+</html>

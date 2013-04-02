@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  prodouct_id: 
+  cart_id: 1
+
+two:
+  prodouct_id: 
+  cart_id: 1
